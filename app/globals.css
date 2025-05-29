@@ -40,3 +40,14 @@ a {
     color-scheme: dark;
   }
 }
+/* globals.css */
+
+html, body, #__next {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  background-color: #f8fef7; /* Fondo claro para toda la app */
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  color: #2e7d32;
+}
+
